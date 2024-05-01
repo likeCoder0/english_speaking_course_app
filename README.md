@@ -1,6 +1,7 @@
 # english_speaking_course_app
 
-A new Flutter project.
+The Android APP provide Free English-Speaking Course
+Mobile APP.
 
 ## Home Screen
 
